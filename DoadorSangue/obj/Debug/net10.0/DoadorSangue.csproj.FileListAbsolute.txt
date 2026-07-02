@@ -1,0 +1,14 @@
+C:\Users\User\Documents\DoadorSangue\bin\Debug\net10.0\DoadorSangue.exe
+C:\Users\User\Documents\DoadorSangue\bin\Debug\net10.0\DoadorSangue.deps.json
+C:\Users\User\Documents\DoadorSangue\bin\Debug\net10.0\DoadorSangue.runtimeconfig.json
+C:\Users\User\Documents\DoadorSangue\bin\Debug\net10.0\DoadorSangue.dll
+C:\Users\User\Documents\DoadorSangue\bin\Debug\net10.0\DoadorSangue.pdb
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.AssemblyInfoInputs.cache
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.AssemblyInfo.cs
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.dll
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\refint\DoadorSangue.dll
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.pdb
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\DoadorSangue.genruntimeconfig.cache
+C:\Users\User\Documents\DoadorSangue\obj\Debug\net10.0\ref\DoadorSangue.dll
